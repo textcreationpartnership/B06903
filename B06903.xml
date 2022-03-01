@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact description of the grovvth, quality, and vertues of the leaf tea. By Thomas Garway in Exchange-Alley near the Royal Exchange in London, tobacconist, and seller and retailer of tea and coffee.</title>
+            <author>Garway, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06903</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[371]</idno>
+            <idno type="EEBO-CITATION">99887002</idno>
+            <idno type="PROQUEST">ocm99887002</idno>
+            <idno type="VID">181692</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06903)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181692)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[374])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact description of the grovvth, quality, and vertues of the leaf tea. By Thomas Garway in Exchange-Alley near the Royal Exchange in London, tobacconist, and seller and retailer of tea and coffee.</title>
+                  <author>Garway, Thomas.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing G282.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tea --  Early works to 1800.</term>
+               <term>Coffee --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:181692:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <head>An Exact Deſcription of the Grovvth, Quality and Vertues of the Leaf TEA. BY <hi>Thomas Garway</hi> in <hi>Exchange-Alley</hi> near the <hi>Royal Exchange</hi> in <hi>London,</hi> Tobacconiſt, and Seller and Retailer of TEA and COFFEE.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>EA</hi> is generally brought from <hi>China,</hi> and groweth there upon little Shrubs or Buſhes, the Branches whereof are well garniſhed with white Flowers that are yellow within, of the bigneſs and faſhion of ſweet Brier, but in ſmell unlike, bearing thin green leaves about the bigneſs of <hi>Scordium, Mirtle,</hi> or <hi>Sumack,</hi> and is judged to be a kind of <hi>Sumack:</hi> This Plant hath been reported to grow wild only, but doth not, for they plant it in their Gardens about four foot diſtance, and it groweth about four foot high, and of the Seeds they maintain and increaſe their Stock. Of all places in <hi>China</hi> this Plant groweth in greateſt plenty in the Province of <hi>Xemſi</hi> Latitude 36. degrees, bordering upon the Weſt of the Province of <hi>Honam,</hi> and in the Province of <hi>Namking</hi> near the City of <hi>Lucheu,</hi> there is likewiſe of the growth of <hi>Sinam, Cochin-China,</hi> the Iſland <hi>de Ladrones</hi> and <hi>Japan,</hi> and is called <hi>Cha.</hi> Of this famous Leaf there are divers ſorts (though all of one ſhape) ſome much better than other, the upper Leaves excelling the other in fineneſs, a property almoſt in all Plants, which Leaves they gather every day, and drying them in the ſhade, or in Iron pans over a gentle fire till the humidity be exhauſted, then put up cloſe in Leaden pots, preſerve them for their Drink <hi>Tea,</hi> which is uſed at Meals, and upon all Viſits and Entertainments in private Families, and in the Palaces of of Grandees: And it is averred by a Padre of <hi>Macao</hi> Native of <hi>Japan,</hi> that the beſt <hi>Tea</hi> ought not to be gathered but by Virgins who are deſtined to this work, and ſuch, <hi>Quaenondum Menſtrua patiuntur: gemmae quae naſcuntur in ſummitate arbuſcula ſervantur Imperatoriè, ac praecipuis ejus Dynaſtis; quae autem infra naſcuntur, ad latera, populo conceduntur.</hi> The ſaid Leaf is of ſuch known vertues, that thoſe very Nations ſo famous for Antiquity, Knowledge and Wiſdom, do frequently ſell it among themſelves for twice its weight in Silver, and the high eſtimation of the Drink made therewith hath occaſioned an inquiry into the nature thereof among the moſt intelligent perſons of all Nations that have travelled in thoſe parts, who after exact Tryal and Expe<g ref="char:EOLhyphen"/>rience by all wayes imaginable, have commended it to the uſe of their ſeveral Countries, for its Vertues and Operations, particularly as followeth, <hi>viz.</hi>
+            </p>
+            <div type="part">
+               <p>
+                  <hi>The Quality is moderately hot, proper for Winter or Summer.</hi>
+               </p>
+               <p>
+                  <hi>The Drink is declared to be moſt wholeſome, preſerving in perfect health untill extreme Old Age.</hi>
+               </p>
+               <note place="margin">See <hi>Lovell.</hi> Herbal.</note>
+               <p>
+                  <hi>The particular Vertues are theſe.</hi>
+               </p>
+               <p>It maketh the Body active and luſty.</p>
+               <p>It helpeth the Head-ach, giddineſs and heavineſs thereof.</p>
+               <p>It removeth the Obſtructions of the Spleen.</p>
+               <p>It is very good againſt the Stone and Gravel, cleanſing the Kidneys and Vriters being drank with Virgins Honey inſtead of Sugar.</p>
+               <p>It taketh away the difficulty of breathing, opening Obſtructions.</p>
+               <p>It is good againſt Lipitude Diſtillations, and cleareth the Sight.</p>
+               <p>It removeth Laſſitude, and cleanſeth and purifieth aduſt Humors and a hot Liver.</p>
+               <p>It is good againſt Crudities, ſtrengthening the weakneſs of the Ventricle or Stomack, cauſing good Appetite and Digeſtion, and particularly for Men of a corpulent Body, and ſuch as are great eaters of Fleſh.</p>
+               <p>It vanquiſheth heavy Dreams, eaſeth the Brain, and ſtrengtheneth the Memory.</p>
+               <p>It overcometh ſuperfluous Sleep, and prevents Sleepineſs in general, a draught of the Infuſion being taken, ſo that without trouble whole nights may be ſpent in ſtudy without hurt to the Body, in that it moderately heateth and bindeth the mouth of the Stomack.</p>
+               <p>It prevents and cures Agues, Surfets and Feavers, by infuſing a fit quantity of the Leaf, thereby provoking a moſt gentle Vomit and breathing of the Pores, and hath been given with wonderful ſucceſs.</p>
+               <p>It (being prepared and drank with Milk and Water) ſtrengtheneth the inward parts, and prevents Conſumptions, and powerfully aſſwageth the pains of the Bowels, or gri<g ref="char:EOLhyphen"/>ping of the Guts and Looſeneſs.</p>
+               <p>It is good for Colds, Dropſies and Scurveys, if properly infuſed, purging the Blood by Sweat and Urine, and expelleth Infection.</p>
+               <p>It drives away all pains in the Collick proceeding from Wind, and purgeth ſafely the Gall.</p>
+               <p>And that the Vertues and Excellencies of this Leaf and Drink are many and great, is evident and manifeſt by the high eſteem and uſe of it (eſpecially of late years) among the Phyſitians and knowing men in <hi>France, Italy, Holland</hi> and other parts of Chriſtendom; and in <hi>England</hi> it hath been ſold in the Leaf for ſix pounds, and ſometimes for ten pounds the pound weight, and in reſpect of its former ſcarceneſs and dearneſs, it hath been only uſed as a <hi>Regalia</hi> in high Treatments and Entertainments, and Preſents made thereof to Princes <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a Grandees till the year 1657. The ſaid <hi>Thomas Garway</hi> did purchaſe a quantity thereof, and firſt publickly ſold the ſaid <hi>Tea</hi> in Leaf and Drink, made according to the directions of the moſt knowing Merchants and Travellers into thoſe Eaſtern Countries: And upon knowledge and experience of the ſaid <hi>Garway</hi>'s continued care and induſtry in obtaining the beſt <hi>Tea,</hi> and making Drink thereof, very many Noblemen, Phyſitians, Merchants and Gentlemen of Quality have ever ſince ſent to him for the ſaid Leaf, and daily reſort to his Houſe in <hi>Exchange-Alley</hi> aforeſaid to drink the Drink thereof.</p>
+               <p>And that Ignorance nor Envy may have no ground or power to report or ſuggeſt that what is here aſſerted of the Vertues and Excellencies of this pretious Leaf and Drink hath more of deſign than truth, for the juſtification of himſelf and ſatisfaction of others, he hath here innumerated ſeveral Authors, who in their Learned Works have expreſly written and aſſerted the ſame, and much more in honour of this noble Leaf and Drink, <hi>viz. Bontius, Riccius, Jarricus, Almeyda, Horſtius, Alvarez Semeda, Martinious</hi> in his <hi>China At<g ref="char:EOLhyphen"/>las,</hi> and <hi>Alexander de Rhodes</hi> in his Voyage and Miſſions in a large diſcourſe of the ordering of this Leaf, and the many Vertues of the Drink, printed at at <hi>Paris</hi> 1653. part. 10. Chap. 13.</p>
+               <p>And to the end that all Perſons of Eminency and Quality, Gentlemen and others, who have occaſion for <hi>Tea</hi> in Leaf may be ſupplyed. Theſe are to give notice, that the ſaid <hi>Thomas Garway</hi> hath <hi>Tea</hi> to ſell from ſixteen to fifty Shillings the pound.</p>
+               <p>And whereas ſeveral Perſons uſing <hi>Coffee,</hi> have been accuſtomed to buy the powder thereof by the pound, or in leſſer or greater quantities, which if kept two dayes looſeth much of its firſt Goodneſs. And foraſmuch as the Berries after drying may be kept if need require ſome Moneths; Therefore all perſons living remote from <hi>London,</hi> and have occaſion for the ſaid powder, are adviſed to buy the ſaid <hi>Coffee</hi> Berries ready dryed? which being in a Morter beaten, or in a Mill ground to powder, as they uſe it, will ſo often be brisk, freſh, and fragrant, and in its full vigour and ſtrength as if new prepared, to the great ſatisfaction of the Drinkers thereof, as hath been experienced by many in this City. Which Com<g ref="char:EOLhyphen"/>modity of the beſt ſort, the ſaid <hi>Thomas Garway</hi> hath alwayes ready dryed to be ſold at reaſonable Rates.</p>
+               <p>Alſo ſuch as will have <hi>Coffee</hi> in power, or the Berries undryed, or <hi>Chocalata,</hi> may by the ſaid <hi>Thomas Garway</hi> be ſupplied to their content: With ſuch further Inſtructions and per<g ref="char:EOLhyphen"/>fect Directions how to uſe <hi>Tea, Coffee</hi> and <hi>Chocolata,</hi> as is, or may be needful, and ſo as to be efficatious and operative, according to their ſeveral Vertues.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="advert_for_coffee_mills">
+            <head>Advertiſement.</head>
+            <p>That <hi>Nicholas Brook,</hi> living at the Sign of the <hi>Frying-pan</hi> in St. <hi>Tulies</hi>-ſtreet againſt the Church, is the only known man for making of Mills for grinding of <hi>Coffee</hi> powder, which Mills are by him ſold from 40. to 45. ſhillings the Mill.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
